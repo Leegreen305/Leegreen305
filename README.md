@@ -1,3 +1,4 @@
+
 # Hi, I'm Lee Green
 ### Cybersecurity Professional | Web Developer | AI Voice Agent Builder
 
@@ -56,6 +57,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 | Project | Description |
 |---|---|
 | [AI Voice Agent Projects](https://github.com/Leegreen305/AI-Voice-Agent-Projects) | Production-ready AI voice agent implementations for automated phone interactions using Vapi, ElevenLabs, Twilio, and OpenAI |
+| [AI-Assisted Development Portfolio](https://github.com/Leegreen305/AI-Assisted-Development-Portfolio) | Production applications built using AI-assisted development methodologies |
 | [Vulnerability Management Simulation](https://github.com/Leegreen305/Vulnerability-Management-Simulation) | Enterprise vulnerability management lifecycle simulation demonstrating assessment, prioritization, and remediation workflows |
 | [Network Vulnerability Assessment](https://github.com/Leegreen305) | Nmap and vulnerability scanning lab using Metasploitable2 and OpenVAS |
 | [Dark Storm Threat Report](https://github.com/Leegreen305) | Threat Intelligence Report analyzing Dark Storm Team activities and TTPs |
