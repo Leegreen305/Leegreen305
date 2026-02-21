@@ -55,6 +55,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 | Project | Description |
 |---|---|
+| [AI Voice Agent Projects](https://github.com/Leegreen305/AI-Voice-Agent-Projects) | Production-ready AI voice agent implementations for automated phone interactions using Vapi, ElevenLabs, Twilio, and OpenAI |
 | [Network Vulnerability Assessment](https://github.com/Leegreen305) | Nmap and vulnerability scanning lab using Metasploitable2 and OpenVAS |
 | [Dark Storm Threat Report](https://github.com/Leegreen305) | Threat Intelligence Report analyzing Dark Storm Team activities and TTPs |
 | [Splunk SIEM Analysis](https://github.com/Leegreen305) | Splunk Cloud project analyzing brute-force login attempts using Linux auth logs |
@@ -72,4 +73,3 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 ---
 
 *Building at the intersection of security and AI — always learning, always creating.*
--->
