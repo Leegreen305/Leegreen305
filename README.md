@@ -20,7 +20,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 **Cybersecurity Tools**
 `Splunk` `Nmap` `OpenVAS` `Tenable Nessus (Basic & Advanced Scans)` `Wireshark` `Snort` `Metasploit` `Kali Linux` `Zeek` `Burpsuite` `OWASP ZAP` `Hydra` `Hashcat` `Yara Rules` `Docker` `AWS`
