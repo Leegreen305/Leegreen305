@@ -1,8 +1,7 @@
-
 # Hi, I'm Lee Green
 ### Cybersecurity Professional | Web Developer | AI Voice Agent Builder
 
-I'm a cybersecurity professional and full-stack developer operating at the intersection of **security**, **modern web development**, and **artificial intelligence**. I don't just study security — I build, break, and secure real-world systems, while also developing web applications and intelligent AI-powered voice agents.
+I'm a cybersecurity professional who designs and ships production-ready web applications and AI voice agent systems using modern development practices and AI-assisted workflows.
 
 My goal is to transition into **Vulnerability Management**, where I can take raw scanning data and transform it into actionable insights that help organizations truly understand and improve their security posture.
 
