@@ -1,4 +1,4 @@
-# Hi, I'm Lee Green 
+# Hi, I'm Lee Green
 ### Cybersecurity Professional | Web Developer | AI Voice Agent Builder
 
 I'm a cybersecurity professional and full-stack developer operating at the intersection of **security**, **modern web development**, and **artificial intelligence**. I don't just study security — I build, break, and secure real-world systems, while also developing web applications and intelligent AI-powered voice agents.
@@ -7,7 +7,7 @@ My goal is to transition into **Vulnerability Management**, where I can take raw
 
 ---
 
-##  What I Do
+## What I Do
 
 **Cybersecurity**
 Threat detection, SIEM analysis, network security, phishing analysis, vulnerability scanning, and secure infrastructure design. Every project in this portfolio represents real hands-on work, not theory.
@@ -20,7 +20,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Cybersecurity Tools**
 `Splunk` `Nmap` `OpenVAS` `Tenable Nessus (Basic & Advanced Scans)` `Wireshark` `Snort` `Metasploit` `Kali Linux` `Zeek` `Burpsuite` `OWASP ZAP` `Hydra` `Hashcat` `Yara Rules` `Docker` `AWS`
@@ -36,7 +36,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 ---
 
-##  Certifications
+## Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -47,10 +47,11 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 | Google Cybersecurity Professional Certificate | Google |
 | Google IT Support Professional Certificate | Google |
 | ITIL v4 Foundation | Axelos |
+| CompTIA A+ | CompTIA |
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
@@ -63,7 +64,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fleegreeniii-blue?style=flat&logo=linkedin)](https://linkedin.com/in/leegreeniii)
 [![GitHub](https://img.shields.io/badge/GitHub-Leegreen305-black?style=flat&logo=github)](https://github.com/Leegreen305)
