@@ -55,6 +55,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 | Project | Description |
 |---|---|
+| [CVE Threat Intelligence Tracker](https://github.com/Leegreen305/CVE-Threat-Intelligence-Tracker) | A professional vulnerability management system for tracking, analyzing, and prioritizing real world CVEs based on threat intelligence data |
 | [AI Voice Agent Projects](https://github.com/Leegreen305/AI-Voice-Agent-Projects) | Production-ready AI voice agent implementations for automated phone interactions using Vapi, ElevenLabs, Twilio, and OpenAI |
 | [AI-Assisted Development Portfolio](https://github.com/Leegreen305/AI-Assisted-Development-Portfolio) | Production applications built using AI-assisted development methodologies |
 | [Vulnerability Management Simulation](https://github.com/Leegreen305/Vulnerability-Management-Simulation) | Enterprise vulnerability management lifecycle simulation demonstrating assessment, prioritization, and remediation workflows |
