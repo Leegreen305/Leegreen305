@@ -55,6 +55,7 @@ I design and deploy intelligent AI voice agent systems using cutting-edge platfo
 
 | Project | Description |
 |---|---|
+| [SOC Analyst AI Agent](https://github.com/Leegreen305/SOC-Analyst-AI-Agent-) | AI-powered SOC analyst agent with multi-source threat detection, log analysis, incident response automation, and reporting capabilities |
 | [Security Operations Center Playbooks](https://github.com/Leegreen305/Security-Operations-Center-Playbooks) | A comprehensive library of professional incident response playbooks, templates, detection rules, and automation scripts for enterprise SOC environments |
 | [CVE Threat Intelligence Tracker](https://github.com/Leegreen305/CVE-Threat-Intelligence-Tracker) | A professional vulnerability management system for tracking, analyzing, and prioritizing real world CVEs based on threat intelligence data |
 | [AI Voice Agent Projects](https://github.com/Leegreen305/AI-Voice-Agent-Projects) | Production-ready AI voice agent implementations for automated phone interactions using Vapi, ElevenLabs, Twilio, and OpenAI |
