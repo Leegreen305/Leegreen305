@@ -1,81 +1,30 @@
-# Hi, I'm Lee Green
-### Cybersecurity Professional | Web Developer | AI Voice Agent Builder
+# Lee Green
+**Founder | Technology & Engineering | AI, Software Development & Cybersecurity**
 
-I'm a cybersecurity professional who designs and ships production-ready web applications and AI voice agent systems using modern development practices and AI-assisted workflows.
+I'm the founder of **33 Nexus**, a technology and engineering firm focused on developing intelligent software, AI-driven solutions, secure digital infrastructure, and custom technology platforms.
 
-My goal is to transition into **Vulnerability Management**, where I can take raw scanning data and transform it into actionable insights that help organizations truly understand and improve their security posture.
+My background spans information technology, cybersecurity, software development, and product strategy. I work at the intersection of engineering and business, translating complex technical challenges into practical, scalable solutions.
 
----
+At 33 Nexus, I lead technology strategy, engineering partnerships, and product development initiatives. Our work encompasses custom software engineering, artificial intelligence, large language models, cybersecurity, systems integration, and digital platform development.
 
-## What I Do
+I'm particularly interested in how emerging technologies can transform industries, improve operational efficiency, and create new opportunities for businesses and communities.
 
-**Cybersecurity**
-Threat detection, SIEM analysis, network security, phishing analysis, vulnerability scanning, and secure infrastructure design. Every project in this portfolio represents real hands-on work, not theory.
+### Areas of Focus
 
-**Web Development**
-I build full-stack web applications from the ground up — from design architecture to deployment. I work across the entire stack and handle database design, REST APIs, webhooks, and integrations.
+- **Software Engineering:** Custom applications, SaaS platforms, APIs, and systems architecture
+- **Artificial Intelligence:** AI products, intelligent automation, LLMs, and AI integration
+- **Cybersecurity:** Security engineering, vulnerability management, and infrastructure protection
+- **Cloud & Infrastructure:** Cloud-based applications, scalable architectures, and deployment
+- **Technology Strategy:** Product development, technical leadership, and engineering partnerships
 
-**AI Voice Agents**
-I design and deploy intelligent AI voice agent systems using cutting-edge platforms, integrating them into real business workflows.
+### What I'm Building
 
----
+Through 33 Nexus, my focus is on building a technology firm that combines strong engineering capabilities with thoughtful product strategy and long-term ownership.
 
-## Tech Stack
+I believe technology should do more than solve immediate problems. It should create infrastructure, expand possibilities, and generate lasting value.
 
-**Cybersecurity Tools**
-`Splunk` `Nmap` `OpenVAS` `Tenable Nessus (Basic & Advanced Scans)` `Wireshark` `Snort` `Metasploit` `Kali Linux` `Zeek` `Burpsuite` `OWASP ZAP` `Hydra` `Hashcat` `Yara Rules` `Docker` `AWS`
+**33 Nexus — Architects of the Unseen.**
 
-**Web Development**
-`HTML/CSS` `JavaScript` `React` `Node.js` `Django` `Python` `Tailwind CSS` `PostgreSQL` `REST APIs` `Webhooks`
+**Website:** [33nexus.com](https://33nexus.com)
 
-**AI & Voice Agents**
-`Vapi` `ElevenLabs` `Twilio` `NVIDIA` `OpenAI`
-
-**Cloud**
-`AWS` `Microsoft Azure` `Google Cloud`
-
----
-
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| CompTIA Security+ | CompTIA |
-| CompTIA Network+ | CompTIA |
-| CompTIA IT Operations Specialist (CIOS) | CompTIA |
-| CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA |
-| Google Cybersecurity Professional Certificate | Google |
-| Google IT Support Professional Certificate | Google |
-| ITIL v4 Foundation | Axelos |
-| CompTIA A+ | CompTIA |
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| [AI Penetration Testing Assistant](https://github.com/Leegreen305/AI-Penetration-Testing-Assistant-) | AI-powered assistant for planning, documenting, and reporting penetration testing engagements using OpenAI and industry standard frameworks |
-| [SOC Analyst AI Agent](https://github.com/Leegreen305/SOC-Analyst-AI-Agent-) | AI-powered SOC analyst agent with multi-source threat detection, log analysis, incident response automation, and reporting capabilities |
-| [Security Operations Center Playbooks](https://github.com/Leegreen305/Security-Operations-Center-Playbooks) | A comprehensive library of professional incident response playbooks, templates, detection rules, and automation scripts for enterprise SOC environments |
-| [CVE Threat Intelligence Tracker](https://github.com/Leegreen305/CVE-Threat-Intelligence-Tracker) | A professional vulnerability management system for tracking, analyzing, and prioritizing real world CVEs based on threat intelligence data |
-| [AI Voice Agent Projects](https://github.com/Leegreen305/AI-Voice-Agent-Projects) | Production-ready AI voice agent implementations for automated phone interactions using Vapi, ElevenLabs, Twilio, and OpenAI |
-| [AI-Assisted Development Portfolio](https://github.com/Leegreen305/AI-Assisted-Development-Portfolio) | Production applications built using AI-assisted development methodologies |
-| [Vulnerability Management Simulation](https://github.com/Leegreen305/Vulnerability-Management-Simulation) | Enterprise vulnerability management lifecycle simulation demonstrating assessment, prioritization, and remediation workflows |
-| [Network Vulnerability Assessment](https://github.com/Leegreen305) | Nmap and vulnerability scanning lab using Metasploitable2 and OpenVAS |
-| [Dark Storm Threat Report](https://github.com/Leegreen305) | Threat Intelligence Report analyzing Dark Storm Team activities and TTPs |
-| [Splunk SIEM Analysis](https://github.com/Leegreen305) | Splunk Cloud project analyzing brute-force login attempts using Linux auth logs |
-| [Firewall Log Analysis](https://github.com/Leegreen305) | Splunk SIEM project analyzing pfSense firewall logs to detect blocked traffic |
-| [Phishing Analysis Labs](https://github.com/Leegreen305) | Labs for phishing detection and threat analysis |
-| [SecureContractEncryptor](https://github.com/Leegreen305) | AES-256 encryption tool for protecting sensitive contracts and documents |
-
----
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fleegreeniii-blue?style=flat&logo=linkedin)](https://linkedin.com/in/leegreeniii)
-[![GitHub](https://img.shields.io/badge/GitHub-Leegreen305-black?style=flat&logo=github)](https://github.com/Leegreen305)
-
----
-
-*Building at the intersection of security and AI — always learning, always creating.*
+**Location:** Brooklyn, New York
