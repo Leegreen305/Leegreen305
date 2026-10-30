@@ -27,4 +27,4 @@ I believe technology should do more than solve immediate problems. It should cre
 
 **Website:** [33nexus.com](https://33nexus.com)
 
-**Location:** Brooklyn, New York
+
